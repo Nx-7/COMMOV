@@ -1,5 +1,8 @@
 <resources>
-    <string name="app_name">Ficha</string>
-    <string name="AT1">Pagina 1</string>
-    <string name="button1">Abrir AT2</string>
+    <string name="app_name">Lab-1</string>
+    <string name="AT1">Pagina Inicial</string>
+    <string name="AT2">Pagina Info</string>
+    <string name="button1">Abrir Info</string>
+    <string name="button2">"Voltar "</string>
+
 </resources>
